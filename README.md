@@ -5,13 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srivabhi22" alt="srivabhi22" /></a> </p>
 
-- 🔭 I’m currently working on **End-to-End Sentiment Analysis on Financial news articles**
+- 🔭 My main interests lies in **Machine Learning,Deep Learning , Data Science and Computer Vision**
+
+- 🔭 I’m currently working on an **End-to-End Sentiment Analysis on Financial news articles**
 
 - 🌱 I’m currently learning **Natural Language Processing and it's Deep Learning applications**
 
 - 🤝 I’m currently looking out for internship opportunities in the field of **AI, Machine Learning, Deep Learning and Data Science**
 
-- 📫 How to reach me **abhisheksrivastava05102004@gmail.com**
+- 📫 How to reach me :
+    Personal Email-ID: **abhisheksrivastava05102004@gmail.com**
+    Student Email-ID: **srivabhi22@iitk.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
