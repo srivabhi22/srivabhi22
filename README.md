@@ -13,8 +13,8 @@
 
 - 🤝 I’m currently looking out for internship opportunities in the field of **AI, Machine Learning, Deep Learning and Data Science**
 
-- 📫 How to reach me :
-    Personal Email-ID: **abhisheksrivastava05102004@gmail.com**
+- 📫 How to reach me : </p>
+    Personal Email-ID: **abhisheksrivastava05102004@gmail.com** </p>
     Student Email-ID: **srivabhi22@iitk.ac.in**
 
 <h3 align="left">Connect with me:</h3>
