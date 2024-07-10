@@ -7,9 +7,9 @@
 
 - 🔭 My main interests lies in **Machine Learning,Deep Learning , Data Science and Computer Vision**
 
-- 🔭 I’m currently working on an **End-to-End Sentiment Analysis on Financial news articles**
+- 🔭 I’m currently working on some **NLP Deep Learning Projects**
 
-- 🌱 I’m currently learning **Natural Language Processing and it's Deep Learning applications**
+- 🌱 I’m currently learning **Natural Language Processing and Generative AI**
 
 - 🤝 I’m currently looking out for internship opportunities in the field of **AI, Machine Learning, Deep Learning and Data Science**
 
