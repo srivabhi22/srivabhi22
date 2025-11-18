@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Srivastava</h1>
-<h3 align="center">An aspiring ML Engineer currently studying as a third year undergraduate student at IIT Kanpur</h3>
+<h3 align="center">A final year student currenly studying at IIT Kanpur, pasisonate and working in the field of Generative AI, Deep Learning and Machine Learning.</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srivabhi22" alt="srivabhi22" /></a> </p>
